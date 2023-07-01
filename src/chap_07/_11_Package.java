@@ -24,6 +24,12 @@ public class _11_Package {
             System.out.println("로또번호 : " + (random.nextInt(45) + 1));
         }
 
+        //Math, Scanner, StringBuilder, StringBuffer, StringTokenizer
+        //BigInteger, BigDecimal
+        //LocalDate
+
+
+
 
     }
 }
